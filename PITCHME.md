@@ -10,7 +10,7 @@
 
 ### 2枚目のスライド
 
-
+![Logo](http://spark.apache.org/images/spark-logo-trademark.png)
 ---
 
 
